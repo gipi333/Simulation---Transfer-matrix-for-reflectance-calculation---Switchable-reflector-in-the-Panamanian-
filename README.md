@@ -6,6 +6,12 @@ The beetle Charidotella egregia is able to change its color reversibly when it i
 
 
 
+<p align="center">
+<img src="https://github.com/gipi333/Information-Visualization/blob/main/Reflectance_program.png">
+</p>
 
+<p align="center">
+<img src="https://github.com/gipi333/Information-Visualization/blob/main/Reflectance_article.png">
+</p>
 
 
